@@ -3,20 +3,13 @@
 declare(strict_types=1);
 
 return [
-    'BreadcrumbModuleBrazilianPortugueseLanguagePack' => 'Brazilian Portuguese Language Pack',
+    'BreadcrumbModuleBrazilianPortugueseLanguagePack' => 'Language Pack - Brazilian Portuguese',
     'SubHeaderModuleBrazilianPortugueseLanguagePack' => 'Complete Brazilian Portuguese language support for MikoPBX',
-    'mlp_SoundFiles' => 'Sound Files',
-    'mlp_TranslationFiles' => 'Translation Files',
-    'mlp_TranslationStrings' => 'Translation Strings',
-    'mlp_HowToUse' => 'How to Use',
-    'mlp_Step1' => 'After enabling this language pack, select Brazilian Portuguese as the system language in General Settings.',
-    'mlp_GoToGeneralSettings' => 'Go to General Settings',
-    'mlp_LicenseHeader' => 'License',
-    'mlp_ModuleCode' => 'Module code',
-    'mlp_SoundFilesLicense' => 'Sound files',
-    'mlp_SoundFilesLicenseText' => 'Asterisk Sound Files (CC BY-SA 4.0)',
-    'mlp_CopyrightHeader' => 'Copyright',
-    'mlp_ModuleDevelopment' => 'Module development',
-    'mlp_VoicePrompts' => 'Voice prompts',
-    'mlp_VoicePromptsSource' => 'From official Asterisk release',
+    'mlp_pt_BR_SoundFiles' => 'Sound Files',
+    'mlp_pt_BR_TranslationFiles' => 'Translation Files',
+    'mlp_pt_BR_TranslationStrings' => 'Translation Strings',
+    'mlp_pt_BR_Step1' => 'After enabling this language pack, select the appropriate language in General Settings.',
+    'mlp_pt_BR_GoToGeneralSettings' => 'Go to General Settings',
+    'mlp_pt_BR_HelpTranslate' => 'Want to improve the translation? Help us on Weblate!',
+    'mlp_pt_BR_WeblateLink' => 'Open Weblate',
 ];

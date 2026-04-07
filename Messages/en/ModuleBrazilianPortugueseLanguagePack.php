@@ -3,6 +3,6 @@
 declare(strict_types=1);
 
 return [
-    'BreadcrumbModuleBrazilianPortugueseLanguagePack' => 'Brazilian Portuguese Language Pack',
+    'BreadcrumbModuleBrazilianPortugueseLanguagePack' => 'Language Pack - Brazilian Portuguese',
     'SubHeaderModuleBrazilianPortugueseLanguagePack' => 'Complete Brazilian Portuguese language support for MikoPBX',
 ];
