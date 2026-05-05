@@ -20,13 +20,19 @@ Complete Brazilian Portuguese language pack for MikoPBX including UI translation
 
 ## TTS Attribution
 
-A subset of voice prompts that were missing from the official Asterisk distribution
-were synthesized using neural Text-to-Speech to ensure complete coverage:
+The full set of Brazilian Portuguese voice prompts (~570 phrases) was synthesized
+using neural Text-to-Speech to provide a consistent native-voice experience and
+to replace legacy `.gsm` files with high-quality 22 kHz `.wav` audio:
 
 - **Engine**: [Piper TTS](https://github.com/rhasspy/piper)
 - **Voice model**: `pt_BR-faber-medium` (from [rhasspy/piper-voices](https://huggingface.co/rhasspy/piper-voices))
 - **Sample rate**: 22050 Hz
 - **Format**: WAV (PCM signed 16-bit, mono)
+
+A small number of telephony tones (`beep`, `beeperr`, `ascending-2tone`,
+`descending-2tone`, `confbridge-join`, `confbridge-leave`) and `silence/*` files
+are non-spoken audio; tones are decoded losslessly from the original Asterisk
+`.gsm` source, and silence files are generated as digital silence.
 
 The text for each TTS-generated prompt is stored in `Sounds/core-sounds-pt-br.txt`
 for reference and regeneration.
