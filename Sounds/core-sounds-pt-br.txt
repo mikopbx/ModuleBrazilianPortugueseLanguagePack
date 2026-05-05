@@ -1,0 +1,53 @@
+; Core Asterisk Sounds in Brazilian Portuguese (Português Brasileiro)
+; Generated using Piper TTS (pt_BR-faber-medium)
+; Sample rate: 22050 Hz, mono, 16-bit PCM WAV
+; Total entries: 48
+;
+activated: Ativado.
+added: Adicionado.
+all-circuits-busy-now: Todas as linhas estão ocupadas no momento.
+astcc-followed-by-the-pound-key: Em seguida, pressione a tecla jogo da velha.
+call-forwarding: Desvio de chamadas.
+call-fwd-no-ans: Desvio de chamada quando não atender.
+call-fwd-on-busy: Desvio de chamada quando ocupado.
+call-fwd-unconditional: Desvio incondicional de chamadas.
+call-waiting: Chamada em espera.
+cancelled: Cancelado.
+cannot-complete-as-dialed: Sua chamada não pode ser completada conforme discada.
+check-number-dial-again: Por favor, verifique o número e disque novamente.
+conf-full: Esta conferência está cheia.
+de-activated: Desativado.
+digits/1n: um
+digits/2f: duas
+digits/2n: dois
+disabled: Desabilitado.
+do-not-disturb: Não perturbe.
+enabled: Habilitado.
+enter-num-blacklist: Por favor, digite o número a ser bloqueado.
+entr-num-rmv-blklist: Por favor, digite o número a ser removido da lista de bloqueio.
+letters/aa: a
+letters/ww: dáblio
+number: Número.
+number-not-answering: O número não atende.
+one-moment-please: Um momento, por favor.
+phone: Telefone.
+phonetic/k_p2: quilo
+please-try-again: Por favor, tente novamente.
+pls-hold-while-try: Por favor, aguarde enquanto tentamos conectar a sua chamada.
+pls-try-call-later: Por favor, tente ligar mais tarde.
+queue-minutex1: minuto
+queue-minutex2: minutos
+removed: Removido.
+simul-call-limit-reached: O limite de chamadas simultâneas foi atingido.
+telephone-number: Número de telefone.
+to-call-this-number: Para ligar para este número.
+to-extension: Para o ramal.
+to-listen-to-it: Para ouvir.
+to-rerecord-it: Para regravar.
+vm-enter-num-to-call: Por favor, digite o número para o qual deseja ligar.
+vm-goodbye: Até logo.
+vm-intro: Por favor, deixe sua mensagem após o sinal. Ao terminar, desligue ou pressione a tecla jogo da velha.
+vm-received: recebido
+with: Com.
+you-entered: Você digitou.
+your: Seu.
