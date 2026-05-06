@@ -3,7 +3,7 @@
   "moduleUniqueID":"ModuleBrazilianPortugueseLanguagePack",
   "support_email": "help@miko.ru",
   "version": "%ModuleVersion%",
-  "min_pbx_version": "2025.1.1",
+  "min_pbx_version": "2026.2.20",
   "module_type": "languagepack",
   "language_code": "pt-br",
   "translation_sync": {
